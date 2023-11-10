@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"simple button counter component that increments on every click","md5":"02c3834ea5b54841225de8021911e021"}]}
